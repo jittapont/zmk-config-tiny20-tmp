@@ -1,0 +1,6 @@
+if SHIELD_TINY20
+
+config ZMK_KEYBOARD_NAME
+    default "tiny20"
+
+endif
